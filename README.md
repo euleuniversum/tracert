@@ -10,10 +10,10 @@
 ## Запуск
 
 ```sh
-python as.py [ip or domain]
+python as.py [host]
 ```
 
-`ip or domain` -  ip-адресс или доменное имя, до которого необходимо провести трассировку.
+`host` -  ip-адресс или доменное имя, до которого необходимо провести трассировку.
 
 ## Пример входных и выходных данных
 ![alt tag](https://sun9-4.userapi.com/impg/xE7AH1PDaTQnxVsrg2WyjpzwTn4HPhB4f-70zA/y1GH7hhGwsk.jpg?size=647x145&quality=96&sign=0176499abffb111c388b3540fda621cb&type=album)
